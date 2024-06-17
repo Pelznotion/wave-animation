@@ -1,6 +1,5 @@
 body {
- background: linear-gradient(rgba(14, 14, 14, 0.8), rgba(14, 14, 14, 0.8)),
-    url("frame.png") center/cover fixed no-repeat;
+ background-color:#0e0e0e;
   display: flex;
   align-items: center;
   justify-content: center;
